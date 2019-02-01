@@ -1,22 +1,22 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Szymon Szott"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "AGH University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "szott@kt.agh.edu.pl"
 
 # List (academic) interests or hobbies
 interests = [
@@ -62,22 +62,22 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:szott@kt.agh.edu.pl"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/SzymonSzott"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=bobhthoAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/SzymonSzott"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +88,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Szymon Szott received his M.Sc. and Ph.D. degrees in telecommunications (both with honours) from the AGH University of Science and Technology, Krakow, Poland in 2006 and 2011, respectively. Currently he is working as an assistant professor at the Department of Telecommunications, AGH University. In 2013, he was a visiting researcher at the University of Palermo (Italy) and at Stanford University (USA). His professional interests are related to wireless local area networks (medium access, QoS provisioning, security). He is a reviewer for international journals and conferences. He has been involved in several European projects (DAIDALOS II, CONTENT, CARMEN, MEDUSA, FLAVIA, PROACTIVE, RESCUE) as well as grants supported by the Ministry of Science and Higher Education and the National Science Centre. He is active in the Association of Top 500 Innovators where he serves as the secretary of the management board. He is the author or co-author of over 60 research papers.

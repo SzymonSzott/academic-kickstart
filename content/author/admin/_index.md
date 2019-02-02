@@ -13,33 +13,28 @@ role = "Assistant Professor"
 organizations = [ { name = "AGH University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Wi-Fi networks, coexistence in unlicensed bands, QoS, and selfish attacks."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "szott@kt.agh.edu.pl"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Wi-Fi networks",
+  "MAC protocols",
+  "Selfish attacks"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Telecommunications"
+  institution = "AGH University"
+  year = 2011
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MEng in Electronics and Telecommunications"
+  institution = "AGH University"
+  year = 2006
 
 # Social/Academic Networking
 #
@@ -70,9 +65,24 @@ interests = [
   link = "https://twitter.com/SzymonSzott"
 
 [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/szymonszott/"
+
+[[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=bobhthoAAAAJ"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Szymon_Szott"
+
+#[[social]]
+#  icon = "orcid"
+#  icon_pack = "ai"
+#  link = "https://orcid.org/0000-0001-5884-5581"
 
 [[social]]
   icon = "github"
@@ -88,4 +98,4 @@ interests = [
 
 +++
 
-Szymon Szott received his M.Sc. and Ph.D. degrees in telecommunications (both with honours) from the AGH University of Science and Technology, Krakow, Poland in 2006 and 2011, respectively. Currently he is working as an assistant professor at the Department of Telecommunications, AGH University. In 2013, he was a visiting researcher at the University of Palermo (Italy) and at Stanford University (USA). His professional interests are related to wireless local area networks (medium access, QoS provisioning, security). He is a reviewer for international journals and conferences. He has been involved in several European projects (DAIDALOS II, CONTENT, CARMEN, MEDUSA, FLAVIA, PROACTIVE, RESCUE) as well as grants supported by the Ministry of Science and Higher Education and the National Science Centre. He is active in the Association of Top 500 Innovators where he serves as the secretary of the management board. He is the author or co-author of over 60 research papers.
+Szymon Szott received his M.Sc. and Ph.D. degrees in telecommunications (both with honours) from the AGH University of Science and Technology, Krakow, Poland in 2006 and 2011, respectively. Currently he is working as an assistant professor at the Department of Telecommunications, AGH University. In 2013, he was a visiting researcher at the University of Palermo (Italy) and at Stanford University (USA). His professional interests are related to wireless local area networks (channel access, QoS provisioning, security). He is a reviewer for international journals and conferences. He has been involved in several European projects (DAIDALOS II, CONTENT, CARMEN, MEDUSA, FLAVIA, PROACTIVE, RESCUE) as well as grants supported by the Ministry of Science and Higher Education and the National Science Centre. He is the author or co-author of over 60 research papers.

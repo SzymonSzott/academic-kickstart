@@ -85,11 +85,11 @@ contact_links = []
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
-zoom = 15
+latitude = "50.06737"
+longitude = "19.91612"
+zoom = 16
 
 ############################
 ## Plugins                ##

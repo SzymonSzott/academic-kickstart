@@ -7,14 +7,21 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 90
+weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+In the current academic year I am teaching the following courses:
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+- [Metody symulacyjne (Simulation methods)](https://upel.agh.edu.pl/wiet/course/view.php?id=523)
+- [Modelowanie i symulacja sieci i usług (Modelling and simulation of networks and services)](https://upel.agh.edu.pl/wiet/course/view.php?id=445)
+- [Secure Communication Systems](http://kt.agh.edu.pl/~pacyna/lectures/secure_communications_systems.html)
+
+I will also be giving guest lectures for the following courses:
+
+- [Ewolucja sieci (Evolution of communication networks)](http://www.kt.agh.edu.pl/~brus/evolution_lectures.html)
+- Osiągnięcia i Aktualne Kierunki Badań w Telekomunikacji (Achievements and Current Research Directions in Telecommunications)

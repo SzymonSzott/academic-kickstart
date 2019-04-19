@@ -18,7 +18,7 @@ authors = ["Ilenia Tinnirello", "Pierluigi Gallo", "Szymon Szott", "Katarzyna Ko
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Communications Letters, vol. 23, no. 2, pp. 342-345"
+publication = "IEEE Communications Letters, vol. 23, no. 2, pp. 342-345, 2019"
 publication_short = ""
 
 # Abstract and optional shortened version.

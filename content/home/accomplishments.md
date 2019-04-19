@@ -1,13 +1,13 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 15
+weight = 80
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,28 +19,28 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-#[[item]]
-#  title = "Neural Networks and Deep Learning"
-#  organization = "Coursera"
-#  certificate_url = "https://www.coursera.org"
-#  date_start = "2018-10-01"
-#  date_end = ""
-#  description = ""
+[[item]]
+  title = "Top 10% of the highest-rated academic teachers at the Faculty of Computer Science, Electronics and Telecommunications"
+  organization = "AGH University"
+  certificate_url = "https://www.facebook.com/Katedra.Telekomunikacji.AGH/posts/1958977257551360"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
 
-#[[item]]
-#  title = "Blockchain Fundamentals"
-#  organization = "edX"
-#  certificate_url = "https://www.edx.org"
-#  date_start = "2018-03-01"
-#  date_end = ""
-#  description = ""
+[[item]]
+  title = "Scientific supervisor of an awarded diploma thesis"
+  organization = "Polish Association of Telecommunication Engineers (PATE)"
+  certificate_url = "http://www.sit.org.pl/wyniki2018.pdf"
+  date_start = "2018-07-01"
+  date_end = ""
+  description = "Kamil Słowik, whom I supervised, became a laurate of the PATE's competition for the best diploma thesis in 2018 for his thesis 'Performance Evaluation of IEEE 802.11n/ac Networks with Frame Aggregation'."
   
-#[[item]]
-#  title = "Intro to Python"
-#  organization = "DataCamp"
-#  certificate_url = "https://www.datacamp.com"
-#  date_start = "2017-07-01"
-#  date_end = "2017-12-21"
-#  description = ""
+[[item]]
+  title = "Habilitation degree"
+  organization = "AGH University, Faculty of Computer Science, Electronics and Telecommunications"
+  certificate_url = "http://www.iet.agh.edu.pl/pl/o-wydziale/posiedzenia/2018/posiedzenie-18-01-2018/uchwala-o-stopniach-564st2018/"
+  date_start = "2018-01-19"
+  date_end = ""
+  description = ""
 
 +++

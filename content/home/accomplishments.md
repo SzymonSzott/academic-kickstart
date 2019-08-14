@@ -34,13 +34,13 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = ""
   description = "Kamil Słowik, whom I supervised, became a laurate of the PATE's competition for the best diploma thesis in 2018 for his thesis 'Performance Evaluation of IEEE 802.11n/ac Networks with Frame Aggregation'."
-  
-[[item]]
-  title = "Habilitation degree"
-  organization = "AGH University, Faculty of Computer Science, Electronics and Telecommunications"
-  certificate_url = "http://www.iet.agh.edu.pl/pl/o-wydziale/posiedzenia/2018/posiedzenie-18-01-2018/uchwala-o-stopniach-564st2018/"
-  date_start = "2018-01-19"
-  date_end = ""
-  description = ""
+
+#[[item]]
+#  title = "Habilitation degree"
+#  organization = "AGH University, Faculty of Computer Science, Electronics and Telecommunications"
+#  certificate_url = "http://www.iet.agh.edu.pl/pl/o-wydziale/posiedzenia/2018/posiedzenie-18-01-2018/uchwala-o-stopniach-564st2018/"
+#  date_start = "2018-01-19"
+#  date_end = ""
+#  description = ""
 
 +++

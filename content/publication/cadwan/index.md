@@ -1,5 +1,5 @@
 +++
-title = "CADWAN - A Control Architecture for Dense Wi-Fi Access Networks"
+title = "CADWAN - A Control Architecture for Dense WiFi Access Networks"
 date = 2018-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

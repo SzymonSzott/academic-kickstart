@@ -17,11 +17,11 @@ weight = 60
 
 In the current academic year I am teaching the following courses:
 
-- [Metody symulacyjne (Simulation methods)](https://upel.agh.edu.pl/wiet/course/view.php?id=523)
-- [Modelowanie i symulacja sieci i usług (Modelling and simulation of networks and services)](https://upel.agh.edu.pl/wiet/course/view.php?id=445)
+- [Metody symulacyjne (Simulation Methods)](https://upel.agh.edu.pl/wiet/course/view.php?id=523)
+- [Modelowanie i symulacja sieci i usług (Modelling and Simulation of Networks and Services)](https://upel.agh.edu.pl/wiet/course/view.php?id=445)
 - [Secure Communication Systems](http://kt.agh.edu.pl/~pacyna/lectures/secure_communications_systems.html)
 
 I will also be giving guest lectures for the following courses:
 
-- [Ewolucja sieci (Evolution of communication networks)](http://www.kt.agh.edu.pl/~brus/evolution_lectures.html)
-- Osiągnięcia i Aktualne Kierunki Badań w Telekomunikacji (Achievements and Current Research Directions in Telecommunications)
+- [Ewolucja sieci (Evolution of Communication Networks)](http://www.kt.agh.edu.pl/~brus/evolution_lectures.html)
+- Osiągnięcia i aktualne kierunki badań w telekomunikacji (Achievements and Current Research Directions in Telecommunications)

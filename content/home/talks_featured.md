@@ -3,6 +3,7 @@
 widget = "talks_featured"
 active = false
 date = 2016-04-20T00:00:00
+headless = true
 
 title = "Featured Talks"
 subtitle = ""

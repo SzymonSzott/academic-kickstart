@@ -6,6 +6,7 @@
 widget = "featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
+headless = true
 
 title = "Featured Publications"
 subtitle = ""

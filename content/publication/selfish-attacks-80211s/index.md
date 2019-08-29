@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Communications Magazine, vol. 52, no. 6, pp. 227-233, June 2014"
-publication_short = "IEEE Comm. Mag. 52(6):227-233, 2014."
+publication_short = "IEEE Comm. Mag. 52(6):227-233, 2014"
 
 # Abstract.
 abstract = "The IEEE 802.11s amendment for wireless mesh networks does not provide incentives for stations to cooperate and is particularly vulnerable to selfish insider attacks in which a legitimate network participant hopes to increase its QoS at the expense of others. In this tutorial we describe various attacks that can be executed against 802.11s networks and also analyze existing attacks and identify new ones. We also discuss possible countermeasures and detection methods and attempt to quantify the threat of the attacks to determine which of the 802.11s vulnerabilities need to be secured with the highest priority."

@@ -1,6 +1,6 @@
 +++
 title = "Impact of Lossy Forwarding on MAC and Routing Design in Wireless Ad Hoc Networks"
-date = 2018-12-04T16:13:28+02:00
+date = 2019-05-04T16:13:28+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Szymon Szott", "Sebastian Kuhlmorgen", "Valtteri Tervo", "Olayinka Adigun", "Marek Natkaniec", "Katarzyna Kosek-Szott"]
@@ -17,8 +17,8 @@ authors = ["Szymon Szott", "Sebastian Kuhlmorgen", "Valtteri Tervo", "Olayinka A
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Network (Early Access)"
-publication_short = ""
+publication = "IEEE Network, vol. 33, no. 3, pp. 152-160, May/June 2019"
+publication_short = "IEEE Network 33(3):152-160, 2019"
 
 # Abstract.
 abstract = "Multi-hop ad hoc networks may employ cooperative communication, in which opportunistic relays use the spatial diversity of radio channels to increase communication reliability. An emerging variant of traditional relaying and forwarding schemes is the lossy forwarding and joint decoding (LF-JD) concept. In theory, LF-JD has shown the potential to improve spectral efficiency, reduce transmit power, and decrease outage probability by exploiting route diversity and the broadcast nature of radio transmissions. To be applied in real devices, a lower-layer protocol stack embracing the LF-JD concept needs to be designed. In this article, we show how LF-JD impacts the design of MAC and routing protocols and whether its benefits translate to performance improvements. We show that, in comparison to currently available solutions, LF-JD can provide gains in scenarios with high interference or poor signal strength such as in V2V networks."

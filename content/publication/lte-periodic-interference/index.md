@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Communications Letters, vol. 23, no. 2, pp. 342-345, 2019"
-publication_short = "IEEE Comm. Lett., 23(2):342-345, 2019"
+publication_short = "IEEE Comm. Lett. 23(2):342-345, 2019"
 
 # Abstract and optional shortened version.
 abstract = "The problem of Wi-Fi and LTE coexistence has been significantly debated in the last years with the emergence of LTE extensions enabling the utilization of unlicensed spectrum for carrier aggregation. Rather than focusing on the problem of resource sharing between the two technologies, in this letter, we study the effects of LTE's structured transmissions on the Wi-Fi random access protocol. We show how the scheduling of periodic LTE transmissions modifies the behavior of 802.11's distributed coordination function (DCF), leading to a degradation of Wi-Fi performance, both in terms of channel utilization efficiency and in terms of channel access fairness. We also discuss the applicability and limitations of a persistent DCF model in analyzing Wi-Fi performance under periodic LTE interference."

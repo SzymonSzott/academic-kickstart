@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Security and Communication Networks, vol. 6, iss. 4, pp. 509-522, 2013"
-publication_short = "Security Comm. Networks, 6(4):509-522, 2013"
+publication_short = "Security Comm. Networks 6(4):509-522, 2013"
 
 # Abstract.
 abstract = "Selfish users are known to be a severe security threat for wireless ad hoc networks. In particular, they can exploit mechanisms designed to assure quality of service (QoS) in the network. In this paper, the problem of backoff misbehavior in IEEE 802.11 enhanced distributed channel access (EDCA) networks is studied using a game‐theoretic approach. First, it is shown how this selfish behavior can disrupt traffic differentiation. Then, a solution is proposed, which encourages standard‐compliant behavior and thus proper QoS provisioning. This solution is based on punishing selfish nodes by degrading their throughput proportionally to the degree of misbehavior. A practical application of the solution is proposed, which is verified through simulations. Results show that the suggested mechanism considerably improves QoS provisioning in IEEE 802.11 EDCA ad hoc networks in the presence of selfish nodes. Furthermore, it is shown that the mechanism is adaptive, does not have a negative impact on the throughput of well‐behaving nodes, and provides legacy node support."

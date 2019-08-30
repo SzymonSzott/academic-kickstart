@@ -21,6 +21,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Awarded Motorola Solutions Foundation Grant"
+  organization = "Motorola Solutions Foundation"
+  certificate_url = "http://kt.agh.edu.pl/en/node/891"
+  date_start = "2019-02-20"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   title = "Top 10% of the highest-rated academic teachers at the Faculty of Computer Science, Electronics and Telecommunications"
   organization = "AGH University"
   certificate_url = "https://www.facebook.com/Katedra.Telekomunikacji.AGH/posts/1958977257551360"

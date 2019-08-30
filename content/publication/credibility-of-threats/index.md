@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Communications Letters, vol. 21, no. 3, pp. 624-627, March 2017"
-publication_short = "IEEE Comm. Letters 21(3):624-627, 2017"
+publication_short = "IEEE Comm. Lett. 21(3):624-627, 2017"
 
 # Abstract.
 abstract = "In ad hoc networks, selfish stations can pursue a better quality of service (QoS) by performing traffic remapping attacks (TRAs), i.e., by falsely assigning their traffic to a higher priority class, which can hurt honest stations' QoS. To discourage the attackers, honest stations can announce their dissatisfaction with the perceived QoS. If such a threat fails, a costly data frame jamming defense can be launched. We analyze the arising noncooperative game in which the attackers decide whether to continue a TRA when threatened and honest stations decide whether to start jamming when the TRA is continued. Using a Maynard Smith setting, we prove that the threats are credible to a rational attacker, who will then refrain from playing the game and remain honest."

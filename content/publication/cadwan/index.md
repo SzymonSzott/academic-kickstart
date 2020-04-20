@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Communications Magazine, vol. 56, no. 1, pp. 194-201, Jan. 2018"
-publication_short = "IEEE Comm. Mag. 56(1):194-201"
+publication_short = "IEEE Comm. Mag. 56(1):194-201, 2018"
 
 # Abstract.
 abstract = "The growing demands of ubiquitous computing are leading towards the densification of wireless access networks. The challenges of high density deployments can be addressed by network-wide centralized control. To this end we propose CADWAN-a Control Architecture for efficient management of Dense Wi-Fi Access Networks. Its main advantages are: flexibility (it supports software-defined wireless networking), scalability (it uses a three-tier optimization framework), and extendibility (it exploits a unified control interface with support for heterogeneous devices). Furthermore, CADWAN is complementary to ongoing developments in IEEE 802.11, especially 802.11ax."
@@ -76,4 +76,5 @@ links = [{name = "IEEE Xplore", url = "https://ieeexplore.ieee.org/document/8255
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "TopRight"
+
 +++

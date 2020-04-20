@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impact of Contention Window Cheating on Single-Hop IEEE 802.11e MANETs"
-authors: ["Szymon Szott", "Marek Natkaniec", "Roberto Canonico", "Andrzej R. Pach "]
+authors: ["Szymon Szott", "Marek Natkaniec", "Roberto Canonico", "Andrzej R. Pach"]
 date: 2008-03-31T06:58:44+02:00
 doi: " 10.1109/WCNC.2008.244"
 

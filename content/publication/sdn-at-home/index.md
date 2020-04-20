@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Communications Magazine, vol. 54, no. 5, pp. 123-131, May 2016"
-publication_short = "IEEE Comm. Mag. 54(5):123-131"
+publication_short = "IEEE Comm. Mag. 54(5):123-131, 2016"
 
 # Abstract.
 abstract = "Recent advances in wireless networking technologies are leading toward the proliferation of novel home network applications. However, the landscape of emerging scenarios is fragmented due to their varying technological requirements and the heterogeneity of current wireless technologies. We argue that the development of flexible software-defined wireless architectures, including such efforts as the wireless MAC processor, coupled with SDN concepts, will enable the support of both emerging and future home applications. In this article, we first identify problems with managing current home networks composed of separate network segments governed by different technologies. Second, we point out the flaws of current approaches to provide interoperability of these technologies. Third, we present a vision of a software-defined multi-technology network architecture (SDN@home) and demonstrate how a future home gateway (SDN controller) can directly and dynamically program network devices. Finally, we define a new type of flexibility enabled by SDN@home. Wireless protocols and features are no longer tied to specific technologies but can be used by general-purpose wireless SDN devices. This permits satisfaction of the requirements demanded by home owners and service providers under heterogeneous network conditions."
@@ -76,4 +76,5 @@ links = [{name = "IEEE Xplore", url = "https://ieeexplore.ieee.org/document/7470
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
 +++

@@ -14,7 +14,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Szymon Szott, Assistant professor at AGH University"
+description = "Szymon Szott, Associate professor at AGH University"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""

@@ -52,7 +52,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "szott@kt.agh.edu.pl"
+email = "szott@agh.edu.pl"
 phone = "+48126173538"
 address = "Building B-9, room 3.07, AGH University, Krakow, Poland"
 

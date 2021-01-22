@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lossy forwarding", "MAC", "routing", "ns-3", "tutorial", "V2V"]
+tags = ["lossy forwarding", "MAC", "routing", "ns-3", "tutorial", "V2V", "relay networks"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

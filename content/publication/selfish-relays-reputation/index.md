@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Selfish Attacks in Two-Hop IEEE 802.11 Relay Networks: Impact and Countermeasures"
-authors: ["Szymon Szott", "Jerzy Konorski"]
-date: 2018-08-09T15:33:37+02:00
-doi: "10.1109/LWC.2018.2809726"
+title: "A Reputation Scheme to Discourage Selfish QoS Manipulation in Two-Hop Wireless Relay Networks"
+authors: ["Jerzy Konorski", "Szymon Szott"]
+date: 2018-12-08T07:50:12+02:00
+doi: "10.1109/GLOCOM.2018.8647988"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-29T15:33:37+02:00
+publishDate: 2020-08-01T07:59:16+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Wireless Communications Letters, vol. 7, no. 4, pp. 658-661, Aug. 2018"
-publication_short: "IEEE Wireless Commun. Lett. 7(4):658-661, 2018"
+publication: "2018 IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, United Arab Emirates, 2018"
+publication_short: ""
 
-abstract: "In IEEE 802.11 networks, selfish stations can pursue a better quality of service through selfish MAC-layer attacks. Such attacks are easy to perform, secure routing protocols do not prevent them, and their detection may be complex. Two-hop relay topologies allow a new angle of attack: a selfish relay can tamper with either source traffic, transit traffic, or both. We consider the applicability of selfish attacks and their variants in the two-hop relay topology, quantify their impact, and study defense measures."
+abstract: "In wireless networks, stations can improve their received quality of service (QoS) by handling packets of source flows with higher priority. Additionally, in cooperative relay networks, the relays can handle transit flows with lower priority. We use game theory to model a two-hop relay network where each of the two involved stations can commit such selfish QoS manipulation. We design and evaluate a reputation-based incentive scheme called RISC2WIN, whereby a trusted third party (e.g., an access point) can limit selfish behavior and preserve appropriate QoS for both stations."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,18 +30,19 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 links:
 - name: IEEE Xplore
-  url: https://ieeexplore.ieee.org/abstract/document/8303702
-#  icon_pack: ai
-#  icon: ieee
-- name: Research Gate
-  url: https://www.researchgate.net/publication/320195249_Selfish_Attacks_in_Two-hop_IEEE_80211_Relay_Networks_Impact_and_Countermeasures
-#  icon_pack: ai
-#  icon: researchgate
+  url: https://ieeexplore.ieee.org/abstract/document/8647988
+- name: ResearchGate
+  url: https://www.researchgate.net/publication/322515832_Modeling_a_Traffic_Remapping_Attack_Game_in_a_Multi-Hop_Ad_Hoc_Network
 
 url_pdf:
-url_preprint: https://arxiv.org/abs/1710.01006
+url_preprint: https://arxiv.org/abs/1804.10456
 url_code:
 url_dataset:
 url_poster:
@@ -54,7 +55,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Conceptual setting for selfish attacks in a two-hop relay network"
+  caption: ""
   focal_point: ""
   preview_only: false
 

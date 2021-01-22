@@ -21,6 +21,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Finalist of the Teaching Laurel competition"
+  organization = "AGH University"
+  certificate_url = "https://www.facebook.com/LaurDydatykaAGH/photos/a.175801960698871/175802264032174/"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = "I was nominated in the Class Teacher (*Prowadzący ćwiczenia*) category of the Teaching Laurel (*Laur Dydaktyka*) competition organized by [URSS](https://samorzad.agh.edu.pl/)."
+
+[[item]]
+  title = "Supervisor of an awarded diploma thesis"
+  organization = "AGH University"
+  certificate_url = "http://konkurs.kt.agh.edu.pl/"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = "Witold Wydmański, whom I supervised, became a laurate of the Department of Telecommunication's competition for the best diploma thesis in 2020 for his thesis 'Applying Machine Learning Algorithms for Setting the Contention Window Value in IEEE 802.11 Networks'."
+
+[[item]]
   title = "Awarded Motorola Solutions Foundation Grant"
   organization = "Motorola Solutions Foundation"
   certificate_url = "http://kt.agh.edu.pl/en/node/891"
@@ -38,7 +54,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  title = "Scientific supervisor of an awarded diploma thesis"
+  title = "Supervisor of an awarded diploma thesis"
   organization = "Polish Association of Telecommunication Engineers (PATE)"
   certificate_url = "http://www.sit.org.pl/wyniki2018.pdf"
   date_start = "2018-07-01"
